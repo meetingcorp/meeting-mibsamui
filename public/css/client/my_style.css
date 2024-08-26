@@ -1,0 +1,35 @@
+#mainMenu.menu-rounded nav>ul>li>a {
+    border-radius: 50px !important;
+    border-width: 2px;
+}
+
+#topbar {
+    background-color: #0a2946 !important;
+}
+
+.grid li {
+    float: left;
+    position: relative;
+    width: 20%;
+    padding: 1px;
+}
+
+.social-icons.social-icons-colored .social-facebook a,
+.social-icons.social-icons-colored-hover .social-facebook a:hover {
+    background-color: #5d82d1;
+    /* color: white !important; */
+}
+
+.social-icons.social-icons-colored a,
+.social-icons.social-icons-colored-hover a:hover {
+    color: #fff !important;
+    border: 0;
+}
+
+.social-icons.social-icons-medium li a {
+    height: 42px;
+    width: 42px;
+    line-height: 42px;
+    font-size: 18px;
+    background-color: #000000 !important;
+}
